@@ -1,3 +1,10 @@
 body{
     background-image: url(https://img.wallpapersafari.com/desktop/800/450/0/30/bMmkWR.png);
+    font-family: fantasy;
+}
+h1{
+    color: greenyellow;
+}
+p{
+    color: greenyellow;
 }
