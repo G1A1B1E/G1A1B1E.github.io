@@ -1,3 +1,9 @@
 body{
     background-image: url(https://coolbackgrounds.io/images/unsplash/samuel-zeller-medium-b832fe04.jpg);
 }
+h1{
+    color: cyan;
+}
+p{
+    color: chocolate;
+}

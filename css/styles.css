@@ -8,3 +8,7 @@ h1{
 p{
     color: greenyellow;
 }
+button{
+    padding: 10%;
+    color: blue;
+}
