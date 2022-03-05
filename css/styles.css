@@ -4,6 +4,8 @@ body{
 }
 h1{
     color: greenyellow;
+    font-size: larger;
+    text-align: center;
 }
 p{
     color: greenyellow;
