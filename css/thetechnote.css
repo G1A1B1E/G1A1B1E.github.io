@@ -3,9 +3,12 @@ body{
 }
 title{
     text-align: center ;
-    color: lightblue;
+    color:goldenrod;
+}
+h2{
+    color: aqua;
 }
 p{
-    text-align: center;
-    color: black;
+    color: aqua;
 }
+
