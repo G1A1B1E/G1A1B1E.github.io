@@ -1,6 +1,6 @@
 body{
     background-image: url(https://img.wallpapersafari.com/desktop/800/450/0/30/bMmkWR.png);
-    font-family: fantasy;
+    font-family: cursive;
 }
 h1{
     color: royalblue;
@@ -15,5 +15,5 @@ button{
     color: blue;
     size: 5px;
     border: 5px;
-    background-color: salmon;
+    background-color: salmon
 }
