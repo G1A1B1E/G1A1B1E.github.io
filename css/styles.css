@@ -45,10 +45,11 @@ button{
     color: white;
   }
   .footer {
+    height: 10%;
     position: fixed;
     left: 0;
     bottom: 0;
-    width: 200%;
+    width: 100%;
     background-color: black;
     color: white;
     text-align: center;
