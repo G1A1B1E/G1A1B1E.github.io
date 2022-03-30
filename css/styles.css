@@ -1,21 +1,21 @@
 body{
-    background-image: url(https://img.wallpapersafari.com/desktop/800/450/0/30/bMmkWR.png);
-    font-family: cursive;
+background-color: #ddd;
+font-family: 'Permanent Marker', cursive;
 }
 h1{
-    color: royalblue;
+    color: black;
     font-size: larger;
     text-align: center;
 }
 p{
-    color: rgb(33, 107, 245);
+    color: black;
 }
 button{
     padding: 10%;
-    color: blue;
+    color: white;
     size: 5px;
     border: 5px;
-    background-color: salmon
+    background-color: black
 }
 /* Add a black background color to the top navigation */
 .topnav {

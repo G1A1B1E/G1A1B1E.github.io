@@ -1,12 +1,13 @@
 body{
-    background-color: aqua;
+    background-color: #ddd;
+    font-family: 'Permanent Marker', cursive;
 }
 title{
     text-align: center ;
-    color:goldenrod;
+    color: black;
 }
 h2{
-    color: aqua;
+    color: black;
 }
 p{
     color: black;
