@@ -28,7 +28,7 @@ main{
     color: white;
   }
   .footer {
-    height: 3%;
+    height: 50px;
     position: fixed;
     left: 0;
     bottom: 0;
