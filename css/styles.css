@@ -1,6 +1,7 @@
 body{
 background-color: #ddd;
 font-family: 'Permanent Marker', cursive;
+border-radius: 25px;
 }
 h1{
     color: black;
