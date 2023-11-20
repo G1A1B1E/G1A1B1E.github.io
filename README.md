@@ -1,9 +1,8 @@
 # G1A1B1E.github.io
-G1A1B1E.github.io
+<a> G1A1B1E.github.io</a>
 
+An all around website for me and anyone who pleases.
+Feel free to check out my other repos
 
-This is my website that i created :D
-
-Took Me som work
 
 
