@@ -1,3 +1,5 @@
+console.log("working..."),
+
 document.addEventListener('DOMContentLoaded', () => {
     const links = document.querySelectorAll('.footer-link');
     const movementSpeed = 3;
