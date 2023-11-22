@@ -24,3 +24,26 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 });
 
+import { initializeApp } from "firebase/app";
+import { getPerformance } from "firebase/performance";
+
+// TODO: Replace the following with your app's Firebase project configuration
+// See: https://firebase.google.com/docs/web/learn-more#config-object
+
+  const firebaseConfig = {
+    apiKey: "AIzaSyAwKjjrufdjQbuVuY22ysq4IuaHIFDxMy0",
+    authDomain: "g1a1b1e.firebaseapp.com",
+    projectId: "g1a1b1e",
+    storageBucket: "g1a1b1e.appspot.com",
+    messagingSenderId: "1012113335287",
+    appId: "1:1012113335287:web:56f3cfbf052b09bf5284f2",
+    measurementId: "G-8Q2DR0DTDW"
+  };
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+
+
+// Initialize Performance Monitoring and get a reference to the service
+const perf = getPerformance(app);
+
